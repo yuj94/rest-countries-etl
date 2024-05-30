@@ -1,0 +1,10 @@
+# Library used to  make HTTP requests
+requests
+# Library used for data analysis and manipulation
+pandas
+# Library used to for scheduling and automating tasks periodically at predetermined intervals
+schedule
+# Framework to supporting testing for applications and libraries
+pytest
+# Tool for measuring code coverage in Python
+coverage

@@ -1,0 +1,251 @@
+id ,country_name                                                              ,country_code ,currencies    ,region    ,updated_date ,updated_by
+MD ,Republic of Moldova                                                       ,MDA          ,MDL           ,Europe    ,2024-05-30   ,system
+US ,United States of America                                                  ,USA          ,USD           ,Americas  ,2024-05-30   ,system
+YT ,Department of Mayotte                                                     ,             ,EUR           ,Africa    ,2024-05-30   ,system
+NR ,Republic of Nauru                                                         ,NRU          ,AUD           ,Oceania   ,2024-05-30   ,system
+MZ ,Republic of Mozambique                                                    ,MOZ          ,MZN           ,Africa    ,2024-05-30   ,system
+BR ,Federative Republic of Brazil                                             ,BRA          ,BRL           ,Americas  ,2024-05-30   ,system
+CV ,Republic of Cabo Verde                                                    ,CPV          ,CVE           ,Africa    ,2024-05-30   ,system
+GQ ,Republic of Equatorial Guinea                                             ,GEQ          ,XAF           ,Africa    ,2024-05-30   ,system
+AL ,Republic of Albania                                                       ,ALB          ,ALL           ,Europe    ,2024-05-30   ,system
+VI ,Virgin Islands of the United States                                       ,ISV          ,USD           ,Americas  ,2024-05-30   ,system
+NU ,Niue                                                                      ,             ,NZD           ,Oceania   ,2024-05-30   ,system
+PW ,Republic of Palau                                                         ,PLW          ,USD           ,Oceania   ,2024-05-30   ,system
+NG ,Federal Republic of Nigeria                                               ,NGR          ,NGN           ,Africa    ,2024-05-30   ,system
+VG ,Virgin Islands                                                            ,IVB          ,USD           ,Americas  ,2024-05-30   ,system
+GM ,Republic of the Gambia                                                    ,GAM          ,GMD           ,Africa    ,2024-05-30   ,system
+SO ,Federal Republic of Somalia                                               ,SOM          ,SOS           ,Africa    ,2024-05-30   ,system
+YE ,Republic of Yemen                                                         ,YEM          ,YER           ,Asia      ,2024-05-30   ,system
+MY ,Malaysia                                                                  ,MAS          ,MYR           ,Asia      ,2024-05-30   ,system
+DM ,Commonwealth of Dominica                                                  ,DMA          ,XCD           ,Americas  ,2024-05-30   ,system
+GB ,United Kingdom of Great Britain and Northern Ireland                      ,GBR          ,GBP           ,Europe    ,2024-05-30   ,system
+MG ,Republic of Madagascar                                                    ,MAD          ,MGA           ,Africa    ,2024-05-30   ,system
+EH ,Sahrawi Arab Democratic Republic                                          ,             ,"DZD,MAD,MRU" ,Africa    ,2024-05-30   ,system
+CY ,Republic of Cyprus                                                        ,CYP          ,EUR           ,Europe    ,2024-05-30   ,system
+AG ,Antigua and Barbuda                                                       ,ANT          ,XCD           ,Americas  ,2024-05-30   ,system
+IE ,Republic of Ireland                                                       ,IRL          ,EUR           ,Europe    ,2024-05-30   ,system
+PY ,Republic of Paraguay                                                      ,PAR          ,PYG           ,Americas  ,2024-05-30   ,system
+LK ,Democratic Socialist Republic of Sri Lanka                                ,SRI          ,LKR           ,Asia      ,2024-05-30   ,system
+ZA ,Republic of South Africa                                                  ,RSA          ,ZAR           ,Africa    ,2024-05-30   ,system
+KW ,State of Kuwait                                                           ,KUW          ,KWD           ,Asia      ,2024-05-30   ,system
+DZ ,People's Democratic Republic of Algeria                                   ,ALG          ,DZD           ,Africa    ,2024-05-30   ,system
+HR ,Republic of Croatia                                                       ,CRO          ,EUR           ,Europe    ,2024-05-30   ,system
+MQ ,Martinique                                                                ,             ,EUR           ,Americas  ,2024-05-30   ,system
+SL ,Republic of Sierra Leone                                                  ,SLE          ,SLL           ,Africa    ,2024-05-30   ,system
+MP ,Commonwealth of the Northern Mariana Islands                              ,             ,USD           ,Oceania   ,2024-05-30   ,system
+RW ,Republic of Rwanda                                                        ,RWA          ,RWF           ,Africa    ,2024-05-30   ,system
+SY ,Syrian Arab Republic                                                      ,SYR          ,SYP           ,Asia      ,2024-05-30   ,system
+VC ,Saint Vincent and the Grenadines                                          ,VIN          ,XCD           ,Americas  ,2024-05-30   ,system
+XK ,Republic of Kosovo                                                        ,KOS          ,EUR           ,Europe    ,2024-05-30   ,system
+LC ,Saint Lucia                                                               ,LCA          ,XCD           ,Americas  ,2024-05-30   ,system
+HN ,Republic of Honduras                                                      ,HON          ,HNL           ,Americas  ,2024-05-30   ,system
+JO ,Hashemite Kingdom of Jordan                                               ,JOR          ,JOD           ,Asia      ,2024-05-30   ,system
+TV ,Tuvalu                                                                    ,TUV          ,"AUD,TVD"     ,Oceania   ,2024-05-30   ,system
+NP ,Federal Democratic Republic of Nepal                                      ,NEP          ,NPR           ,Asia      ,2024-05-30   ,system
+LR ,Republic of Liberia                                                       ,LBR          ,LRD           ,Africa    ,2024-05-30   ,system
+HM ,Heard Island and McDonald Islands                                         ,             ,              ,Antarctic ,2024-05-30   ,system
+AT ,Republic of Austria                                                       ,AUT          ,EUR           ,Europe    ,2024-05-30   ,system
+GG ,Bailiwick of Guernsey                                                     ,             ,"GBP,GGP"     ,Europe    ,2024-05-30   ,system
+CF ,Central African Republic                                                  ,CAF          ,XAF           ,Africa    ,2024-05-30   ,system
+MR ,Islamic Republic of Mauritania                                            ,MTN          ,MRU           ,Africa    ,2024-05-30   ,system
+DJ ,Republic of Djibouti                                                      ,DJI          ,DJF           ,Africa    ,2024-05-30   ,system
+FJ ,Republic of Fiji                                                          ,FIJ          ,FJD           ,Oceania   ,2024-05-30   ,system
+NO ,Kingdom of Norway                                                         ,NOR          ,NOK           ,Europe    ,2024-05-30   ,system
+LV ,Republic of Latvia                                                        ,LAT          ,EUR           ,Europe    ,2024-05-30   ,system
+FK ,Falkland Islands                                                          ,             ,FKP           ,Americas  ,2024-05-30   ,system
+KZ ,Republic of Kazakhstan                                                    ,KAZ          ,KZT           ,Asia      ,2024-05-30   ,system
+AX ,Åland Islands                                                             ,             ,EUR           ,Europe    ,2024-05-30   ,system
+TM ,Turkmenistan                                                              ,TKM          ,TMT           ,Asia      ,2024-05-30   ,system
+CC ,Territory of the Cocos (Keeling) Islands                                  ,             ,AUD           ,Oceania   ,2024-05-30   ,system
+BG ,Republic of Bulgaria                                                      ,BUL          ,BGN           ,Europe    ,2024-05-30   ,system
+TK ,Tokelau                                                                   ,             ,NZD           ,Oceania   ,2024-05-30   ,system
+NC ,New Caledonia                                                             ,             ,XPF           ,Oceania   ,2024-05-30   ,system
+BB ,Barbados                                                                  ,BAR          ,BBD           ,Americas  ,2024-05-30   ,system
+ST ,Democratic Republic of São Tomé and Príncipe                              ,STP          ,STN           ,Africa    ,2024-05-30   ,system
+AQ ,Antarctica                                                                ,             ,              ,Antarctic ,2024-05-30   ,system
+BN ,"Nation of Brunei, Abode of Peace"                                        ,BRU          ,"BND,SGD"     ,Asia      ,2024-05-30   ,system
+BT ,Kingdom of Bhutan                                                         ,BHU          ,"BTN,INR"     ,Asia      ,2024-05-30   ,system
+CM ,Republic of Cameroon                                                      ,CMR          ,XAF           ,Africa    ,2024-05-30   ,system
+AR ,Argentine Republic                                                        ,ARG          ,ARS           ,Americas  ,2024-05-30   ,system
+AZ ,Republic of Azerbaijan                                                    ,AZE          ,AZN           ,Asia      ,2024-05-30   ,system
+MX ,United Mexican States                                                     ,MEX          ,MXN           ,Americas  ,2024-05-30   ,system
+MA ,Kingdom of Morocco                                                        ,MAR          ,MAD           ,Africa    ,2024-05-30   ,system
+GT ,Republic of Guatemala                                                     ,GUA          ,GTQ           ,Americas  ,2024-05-30   ,system
+KE ,Republic of Kenya                                                         ,KEN          ,KES           ,Africa    ,2024-05-30   ,system
+MT ,Republic of Malta                                                         ,MLT          ,EUR           ,Europe    ,2024-05-30   ,system
+CZ ,Czech Republic                                                            ,CZE          ,CZK           ,Europe    ,2024-05-30   ,system
+GI ,Gibraltar                                                                 ,             ,GIP           ,Europe    ,2024-05-30   ,system
+AW ,Aruba                                                                     ,ARU          ,AWG           ,Americas  ,2024-05-30   ,system
+BL ,Collectivity of Saint Barthélemy                                          ,             ,EUR           ,Americas  ,2024-05-30   ,system
+MC ,Principality of Monaco                                                    ,MON          ,EUR           ,Europe    ,2024-05-30   ,system
+AE ,United Arab Emirates                                                      ,UAE          ,AED           ,Asia      ,2024-05-30   ,system
+SS ,Republic of South Sudan                                                   ,SSD          ,SSP           ,Africa    ,2024-05-30   ,system
+PR ,Commonwealth of Puerto Rico                                               ,PUR          ,USD           ,Americas  ,2024-05-30   ,system
+SV ,Republic of El Salvador                                                   ,ESA          ,USD           ,Americas  ,2024-05-30   ,system
+FR ,French Republic                                                           ,FRA          ,EUR           ,Europe    ,2024-05-30   ,system
+NE ,Republic of Niger                                                         ,NIG          ,XOF           ,Africa    ,2024-05-30   ,system
+CI ,Republic of Côte d'Ivoire                                                 ,CIV          ,XOF           ,Africa    ,2024-05-30   ,system
+GS ,South Georgia and the South Sandwich Islands                              ,             ,SHP           ,Antarctic ,2024-05-30   ,system
+BW ,Republic of Botswana                                                      ,BOT          ,BWP           ,Africa    ,2024-05-30   ,system
+IO ,British Indian Ocean Territory                                            ,             ,USD           ,Africa    ,2024-05-30   ,system
+UZ ,Republic of Uzbekistan                                                    ,UZB          ,UZS           ,Asia      ,2024-05-30   ,system
+TN ,Tunisian Republic                                                         ,TUN          ,TND           ,Africa    ,2024-05-30   ,system
+HK ,Hong Kong Special Administrative Region of the People's Republic of China ,HKG          ,HKD           ,Asia      ,2024-05-30   ,system
+MK ,Republic of North Macedonia                                               ,MKD          ,MKD           ,Europe    ,2024-05-30   ,system
+SR ,Republic of Suriname                                                      ,SUR          ,SRD           ,Americas  ,2024-05-30   ,system
+BE ,Kingdom of Belgium                                                        ,BEL          ,EUR           ,Europe    ,2024-05-30   ,system
+AS ,American Samoa                                                            ,ASA          ,USD           ,Oceania   ,2024-05-30   ,system
+SB ,Solomon Islands                                                           ,SOL          ,SBD           ,Oceania   ,2024-05-30   ,system
+UA ,Ukraine                                                                   ,UKR          ,UAH           ,Europe    ,2024-05-30   ,system
+FI ,Republic of Finland                                                       ,FIN          ,EUR           ,Europe    ,2024-05-30   ,system
+BF ,Burkina Faso                                                              ,BUR          ,XOF           ,Africa    ,2024-05-30   ,system
+BA ,Bosnia and Herzegovina                                                    ,BIH          ,BAM           ,Europe    ,2024-05-30   ,system
+IR ,Islamic Republic of Iran                                                  ,IRI          ,IRR           ,Asia      ,2024-05-30   ,system
+CU ,Republic of Cuba                                                          ,CUB          ,"CUC,CUP"     ,Americas  ,2024-05-30   ,system
+ER ,State of Eritrea                                                          ,ERI          ,ERN           ,Africa    ,2024-05-30   ,system
+SK ,Slovak Republic                                                           ,SVK          ,EUR           ,Europe    ,2024-05-30   ,system
+LT ,Republic of Lithuania                                                     ,LTU          ,EUR           ,Europe    ,2024-05-30   ,system
+MF ,Saint Martin                                                              ,             ,EUR           ,Americas  ,2024-05-30   ,system
+PN ,Pitcairn Group of Islands                                                 ,             ,NZD           ,Oceania   ,2024-05-30   ,system
+GW ,Republic of Guinea-Bissau                                                 ,GBS          ,XOF           ,Africa    ,2024-05-30   ,system
+MS ,Montserrat                                                                ,             ,XCD           ,Americas  ,2024-05-30   ,system
+TR ,Republic of Turkey                                                        ,TUR          ,TRY           ,Asia      ,2024-05-30   ,system
+PH ,Republic of the Philippines                                               ,PHI          ,PHP           ,Asia      ,2024-05-30   ,system
+VU ,Republic of Vanuatu                                                       ,VAN          ,VUV           ,Oceania   ,2024-05-30   ,system
+BO ,Plurinational State of Bolivia                                            ,BOL          ,BOB           ,Americas  ,2024-05-30   ,system
+KN ,Federation of Saint Christopher and Nevis                                 ,SKN          ,XCD           ,Americas  ,2024-05-30   ,system
+RO ,Romania                                                                   ,ROU          ,RON           ,Europe    ,2024-05-30   ,system
+KH ,Kingdom of Cambodia                                                       ,CAM          ,"KHR,USD"     ,Asia      ,2024-05-30   ,system
+ZW ,Republic of Zimbabwe                                                      ,ZIM          ,ZWL           ,Africa    ,2024-05-30   ,system
+JE ,Bailiwick of Jersey                                                       ,             ,"GBP,JEP"     ,Europe    ,2024-05-30   ,system
+KG ,Kyrgyz Republic                                                           ,KGZ          ,KGS           ,Asia      ,2024-05-30   ,system
+BQ ,"Bonaire, Sint Eustatius and Saba"                                        ,             ,USD           ,Americas  ,2024-05-30   ,system
+GY ,Co-operative Republic of Guyana                                           ,GUY          ,GYD           ,Americas  ,2024-05-30   ,system
+UM ,United States Minor Outlying Islands                                      ,             ,USD           ,Americas  ,2024-05-30   ,system
+AM ,Republic of Armenia                                                       ,ARM          ,AMD           ,Asia      ,2024-05-30   ,system
+LB ,Lebanese Republic                                                         ,LBN          ,LBP           ,Asia      ,2024-05-30   ,system
+ME ,Montenegro                                                                ,MNE          ,EUR           ,Europe    ,2024-05-30   ,system
+GL ,Greenland                                                                 ,             ,DKK           ,Americas  ,2024-05-30   ,system
+PG ,Independent State of Papua New Guinea                                     ,PNG          ,PGK           ,Oceania   ,2024-05-30   ,system
+ZM ,Republic of Zambia                                                        ,ZAM          ,ZMW           ,Africa    ,2024-05-30   ,system
+TT ,Republic of Trinidad and Tobago                                           ,TTO          ,TTD           ,Americas  ,2024-05-30   ,system
+TF ,Territory of the French Southern and Antarctic Lands                      ,             ,EUR           ,Antarctic ,2024-05-30   ,system
+PE ,Republic of Peru                                                          ,PER          ,PEN           ,Americas  ,2024-05-30   ,system
+SE ,Kingdom of Sweden                                                         ,SWE          ,SEK           ,Europe    ,2024-05-30   ,system
+SD ,Republic of the Sudan                                                     ,SUD          ,SDG           ,Africa    ,2024-05-30   ,system
+PM ,Saint Pierre and Miquelon                                                 ,             ,EUR           ,Americas  ,2024-05-30   ,system
+OM ,Sultanate of Oman                                                         ,OMA          ,OMR           ,Asia      ,2024-05-30   ,system
+IN ,Republic of India                                                         ,IND          ,INR           ,Asia      ,2024-05-30   ,system
+TW ,Republic of China (Taiwan)                                                ,TPE          ,TWD           ,Asia      ,2024-05-30   ,system
+MN ,Mongolia                                                                  ,MGL          ,MNT           ,Asia      ,2024-05-30   ,system
+SN ,Republic of Senegal                                                       ,SEN          ,XOF           ,Africa    ,2024-05-30   ,system
+TZ ,United Republic of Tanzania                                               ,TAN          ,TZS           ,Africa    ,2024-05-30   ,system
+CA ,Canada                                                                    ,CAN          ,CAD           ,Americas  ,2024-05-30   ,system
+CR ,Republic of Costa Rica                                                    ,CRC          ,CRC           ,Americas  ,2024-05-30   ,system
+CN ,People's Republic of China                                                ,CHN          ,CNY           ,Asia      ,2024-05-30   ,system
+CO ,Republic of Colombia                                                      ,COL          ,COP           ,Americas  ,2024-05-30   ,system
+MM ,Republic of the Union of Myanmar                                          ,MYA          ,MMK           ,Asia      ,2024-05-30   ,system
+RU ,Russian Federation                                                        ,RUS          ,RUB           ,Europe    ,2024-05-30   ,system
+KP ,Democratic People's Republic of Korea                                     ,PRK          ,KPW           ,Asia      ,2024-05-30   ,system
+KY ,Cayman Islands                                                            ,CAY          ,KYD           ,Americas  ,2024-05-30   ,system
+BV ,Bouvet Island                                                             ,             ,              ,Antarctic ,2024-05-30   ,system
+BY ,Republic of Belarus                                                       ,BLR          ,BYN           ,Europe    ,2024-05-30   ,system
+PT ,Portuguese Republic                                                       ,POR          ,EUR           ,Europe    ,2024-05-30   ,system
+SZ ,Kingdom of Eswatini                                                       ,SWZ          ,"SZL,ZAR"     ,Africa    ,2024-05-30   ,system
+PL ,Republic of Poland                                                        ,POL          ,PLN           ,Europe    ,2024-05-30   ,system
+CH ,Swiss Confederation                                                       ,SUI          ,CHF           ,Europe    ,2024-05-30   ,system
+CG ,Republic of the Congo                                                     ,CGO          ,XAF           ,Africa    ,2024-05-30   ,system
+VE ,Bolivarian Republic of Venezuela                                          ,VEN          ,VES           ,Americas  ,2024-05-30   ,system
+PA ,Republic of Panama                                                        ,PAN          ,"PAB,USD"     ,Americas  ,2024-05-30   ,system
+NL ,Kingdom of the Netherlands                                                ,NED          ,EUR           ,Europe    ,2024-05-30   ,system
+WS ,Independent State of Samoa                                                ,SAM          ,WST           ,Oceania   ,2024-05-30   ,system
+DK ,Kingdom of Denmark                                                        ,DEN          ,DKK           ,Europe    ,2024-05-30   ,system
+LU ,Grand Duchy of Luxembourg                                                 ,LUX          ,EUR           ,Europe    ,2024-05-30   ,system
+FO ,Faroe Islands                                                             ,             ,"DKK,FOK"     ,Europe    ,2024-05-30   ,system
+SI ,Republic of Slovenia                                                      ,SLO          ,EUR           ,Europe    ,2024-05-30   ,system
+TG ,Togolese Republic                                                         ,TOG          ,XOF           ,Africa    ,2024-05-30   ,system
+TH ,Kingdom of Thailand                                                       ,THA          ,THB           ,Asia      ,2024-05-30   ,system
+WF ,Territory of the Wallis and Futuna Islands                                ,             ,XPF           ,Oceania   ,2024-05-30   ,system
+BS ,Commonwealth of the Bahamas                                               ,BAH          ,"BSD,USD"     ,Americas  ,2024-05-30   ,system
+TO ,Kingdom of Tonga                                                          ,TGA          ,TOP           ,Oceania   ,2024-05-30   ,system
+GR ,Hellenic Republic                                                         ,GRE          ,EUR           ,Europe    ,2024-05-30   ,system
+SM ,Republic of San Marino                                                    ,SMR          ,EUR           ,Europe    ,2024-05-30   ,system
+RE ,Réunion Island                                                            ,             ,EUR           ,Africa    ,2024-05-30   ,system
+VA ,Vatican City State                                                        ,             ,EUR           ,Europe    ,2024-05-30   ,system
+BI ,Republic of Burundi                                                       ,BDI          ,BIF           ,Africa    ,2024-05-30   ,system
+BH ,Kingdom of Bahrain                                                        ,BHR          ,BHD           ,Asia      ,2024-05-30   ,system
+MH ,Republic of the Marshall Islands                                          ,MHL          ,USD           ,Oceania   ,2024-05-30   ,system
+TC ,Turks and Caicos Islands                                                  ,             ,USD           ,Americas  ,2024-05-30   ,system
+IM ,Isle of Man                                                               ,             ,"GBP,IMP"     ,Europe    ,2024-05-30   ,system
+HT ,Republic of Haiti                                                         ,HAI          ,HTG           ,Americas  ,2024-05-30   ,system
+AF ,Islamic Republic of Afghanistan                                           ,AFG          ,AFN           ,Asia      ,2024-05-30   ,system
+IL ,State of Israel                                                           ,ISR          ,ILS           ,Asia      ,2024-05-30   ,system
+LY ,State of Libya                                                            ,LBA          ,LYD           ,Africa    ,2024-05-30   ,system
+UY ,Oriental Republic of Uruguay                                              ,URU          ,UYU           ,Americas  ,2024-05-30   ,system
+NF ,Territory of Norfolk Island                                               ,             ,AUD           ,Oceania   ,2024-05-30   ,system
+NI ,Republic of Nicaragua                                                     ,NCA          ,NIO           ,Americas  ,2024-05-30   ,system
+CK ,Cook Islands                                                              ,COK          ,"CKD,NZD"     ,Oceania   ,2024-05-30   ,system
+LA ,Lao People's Democratic Republic                                          ,LAO          ,LAK           ,Asia      ,2024-05-30   ,system
+CX ,Territory of Christmas Island                                             ,             ,AUD           ,Oceania   ,2024-05-30   ,system
+SH ,"Saint Helena, Ascension and Tristan da Cunha"                            ,             ,"GBP,SHP"     ,Africa    ,2024-05-30   ,system
+AI ,Anguilla                                                                  ,             ,XCD           ,Americas  ,2024-05-30   ,system
+FM ,Federated States of Micronesia                                            ,FSM          ,USD           ,Oceania   ,2024-05-30   ,system
+DE ,Federal Republic of Germany                                               ,GER          ,EUR           ,Europe    ,2024-05-30   ,system
+GU ,Guam                                                                      ,GUM          ,USD           ,Oceania   ,2024-05-30   ,system
+KI ,Independent and Sovereign Republic of Kiribati                            ,KIR          ,"AUD,KID"     ,Oceania   ,2024-05-30   ,system
+SX ,Sint Maarten                                                              ,             ,ANG           ,Americas  ,2024-05-30   ,system
+ES ,Kingdom of Spain                                                          ,ESP          ,EUR           ,Europe    ,2024-05-30   ,system
+JM ,Jamaica                                                                   ,JAM          ,JMD           ,Americas  ,2024-05-30   ,system
+PS ,State of Palestine                                                        ,PLE          ,"EGP,ILS,JOD" ,Asia      ,2024-05-30   ,system
+GF ,Guiana                                                                    ,             ,EUR           ,Americas  ,2024-05-30   ,system
+AD ,Principality of Andorra                                                   ,AND          ,EUR           ,Europe    ,2024-05-30   ,system
+CL ,Republic of Chile                                                         ,CHI          ,CLP           ,Americas  ,2024-05-30   ,system
+LS ,Kingdom of Lesotho                                                        ,LES          ,"LSL,ZAR"     ,Africa    ,2024-05-30   ,system
+AU ,Commonwealth of Australia                                                 ,AUS          ,AUD           ,Oceania   ,2024-05-30   ,system
+GD ,Grenada                                                                   ,GRN          ,XCD           ,Americas  ,2024-05-30   ,system
+GH ,Republic of Ghana                                                         ,GHA          ,GHS           ,Africa    ,2024-05-30   ,system
+SC ,Republic of Seychelles                                                    ,SEY          ,SCR           ,Africa    ,2024-05-30   ,system
+AO ,Republic of Angola                                                        ,ANG          ,AOA           ,Africa    ,2024-05-30   ,system
+BM ,Bermuda                                                                   ,BER          ,BMD           ,Americas  ,2024-05-30   ,system
+PK ,Islamic Republic of Pakistan                                              ,PAK          ,PKR           ,Asia      ,2024-05-30   ,system
+ML ,Republic of Mali                                                          ,MLI          ,XOF           ,Africa    ,2024-05-30   ,system
+SA ,Kingdom of Saudi Arabia                                                   ,KSA          ,SAR           ,Asia      ,2024-05-30   ,system
+CW ,Country of Curaçao                                                        ,             ,ANG           ,Americas  ,2024-05-30   ,system
+KR ,Republic of Korea                                                         ,KOR          ,KRW           ,Asia      ,2024-05-30   ,system
+ET ,Federal Democratic Republic of Ethiopia                                   ,ETH          ,ETB           ,Africa    ,2024-05-30   ,system
+GP ,Guadeloupe                                                                ,             ,EUR           ,Americas  ,2024-05-30   ,system
+BD ,People's Republic of Bangladesh                                           ,BAN          ,BDT           ,Asia      ,2024-05-30   ,system
+NZ ,New Zealand                                                               ,NZL          ,NZD           ,Oceania   ,2024-05-30   ,system
+KM ,Union of the Comoros                                                      ,COM          ,KMF           ,Africa    ,2024-05-30   ,system
+BZ ,Belize                                                                    ,BIZ          ,BZD           ,Americas  ,2024-05-30   ,system
+UG ,Republic of Uganda                                                        ,UGA          ,UGX           ,Africa    ,2024-05-30   ,system
+SG ,Republic of Singapore                                                     ,SGP          ,SGD           ,Asia      ,2024-05-30   ,system
+LI ,Principality of Liechtenstein                                             ,LIE          ,CHF           ,Europe    ,2024-05-30   ,system
+HU ,Hungary                                                                   ,HUN          ,HUF           ,Europe    ,2024-05-30   ,system
+IS ,Iceland                                                                   ,ISL          ,ISK           ,Europe    ,2024-05-30   ,system
+TJ ,Republic of Tajikistan                                                    ,TJK          ,TJS           ,Asia      ,2024-05-30   ,system
+NA ,Republic of Namibia                                                       ,NAM          ,"NAD,ZAR"     ,Africa    ,2024-05-30   ,system
+TL ,Democratic Republic of Timor-Leste                                        ,TLS          ,USD           ,Asia      ,2024-05-30   ,system
+EG ,Arab Republic of Egypt                                                    ,EGY          ,EGP           ,Africa    ,2024-05-30   ,system
+RS ,Republic of Serbia                                                        ,SRB          ,RSD           ,Europe    ,2024-05-30   ,system
+MU ,Republic of Mauritius                                                     ,MRI          ,MUR           ,Africa    ,2024-05-30   ,system
+MO ,Macao Special Administrative Region of the People's Republic of China     ,             ,MOP           ,Asia      ,2024-05-30   ,system
+PF ,French Polynesia                                                          ,             ,XPF           ,Oceania   ,2024-05-30   ,system
+MV ,Republic of the Maldives                                                  ,MDV          ,MVR           ,Asia      ,2024-05-30   ,system
+ID ,Republic of Indonesia                                                     ,INA          ,IDR           ,Asia      ,2024-05-30   ,system
+CD ,Democratic Republic of the Congo                                          ,COD          ,CDF           ,Africa    ,2024-05-30   ,system
+EE ,Republic of Estonia                                                       ,EST          ,EUR           ,Europe    ,2024-05-30   ,system
+VN ,Socialist Republic of Vietnam                                             ,VIE          ,VND           ,Asia      ,2024-05-30   ,system
+IT ,Italian Republic                                                          ,ITA          ,EUR           ,Europe    ,2024-05-30   ,system
+GN ,Republic of Guinea                                                        ,GUI          ,GNF           ,Africa    ,2024-05-30   ,system
+TD ,Republic of Chad                                                          ,CHA          ,XAF           ,Africa    ,2024-05-30   ,system
+EC ,Republic of Ecuador                                                       ,ECU          ,USD           ,Americas  ,2024-05-30   ,system
+GE ,Georgia                                                                   ,GEO          ,GEL           ,Asia      ,2024-05-30   ,system
+MW ,Republic of Malawi                                                        ,MAW          ,MWK           ,Africa    ,2024-05-30   ,system
+IQ ,Republic of Iraq                                                          ,IRQ          ,IQD           ,Asia      ,2024-05-30   ,system
+SJ ,Svalbard og Jan Mayen                                                     ,             ,NOK           ,Europe    ,2024-05-30   ,system
+BJ ,Republic of Benin                                                         ,BEN          ,XOF           ,Africa    ,2024-05-30   ,system
+JP ,Japan                                                                     ,JPN          ,JPY           ,Asia      ,2024-05-30   ,system
+DO ,Dominican Republic                                                        ,DOM          ,DOP           ,Americas  ,2024-05-30   ,system
+QA ,State of Qatar                                                            ,QAT          ,QAR           ,Asia      ,2024-05-30   ,system
+GA ,Gabonese Republic                                                         ,GAB          ,XAF           ,Africa    ,2024-05-30   ,system
